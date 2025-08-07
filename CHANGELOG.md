@@ -1,17 +1,5 @@
-- Installed Optimization Toolbox; First successful run; Added to do's
-- Added (old) repo with attempt at translating GHKT matlab code to python
-- Removed submodule ghkt_translation
-- First kind of successful run; Installing Optimization Toolbox from matlab before next run
-- Debugging: Added Constraints.m and Objective.m in Solver cell as needed my matlab
-- Debugged graph of coal emissions
-- Fixed issues with matlab kernel; Deleted question
-- Changed initial guess from using previous result (x_sig1_g0_b985_d1) to neutral starting point
-- Added constraints
-- Copied objective function and solver; Added legend for questions/comments
-- Added CHANGELOG.md to track project progress
-- Start work: Continue copying GHKT matlab code in jupyter notebook, adding comments and questions - running it later
-- Started copying GHKT matlab code into Jupyter - not run yet
-- Original GHKT matlab code as provided by Barrage (2014)
-- Stop tracking .ipynb_checkoints
-- Removed .txt extension to filename
-- Remove nested git repo from ghkt_translation (previously chazel_model)
+## [unreleased]
+
+### 💼 Other
+
+- Added Constraints.m and Objective.m in Solver cell as needed my matlab
