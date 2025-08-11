@@ -49,3 +49,7 @@
 * Stop tracking .ipynb_checkoints
 * Removed .txt extension to filename
 * Remove nested git repo from ghkt_translation (previously chazel_model)
+2025-08-11
+- Implemented all changes and started debugging kernel issues
+- Updated parameters in line with Chazel
+- Started changing production functions Yt and Et with newly added labour share variables
